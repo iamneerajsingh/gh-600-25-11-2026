@@ -20,3 +20,19 @@
 {"timestamp": "2026-11-25T02:13:17.362580+00:00", "event": "application_started", "details": {"state_file": "C:\\Users\\neekumar\\Downloads\\cityops-25-11-2026\\gh-600-25-11-2026\\.agent\\state.json", "audit_file": "C:\\Users\\neekumar\\Downloads\\cityops-25-11-2026\\gh-600-25-11-2026\\.agent\\audit.jsonl"}}
 {"timestamp": "2026-11-25T02:13:31.320665+00:00", "event": "health_check", "details": {"endpoint": "/"}}
 {"timestamp": "2026-11-25T02:13:39.360800+00:00", "event": "read_agent_state", "details": {"mission_id": "DEV-001"}}
+{"timestamp": "2026-11-25T03:08:10.336010+00:00", "event": "read_agent_state", "details": {"mission_id": "DEV-001"}}
+{"timestamp": "2026-11-25T03:08:10.338585+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T03:08:10.377813+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-11-25T03:08:10.380950+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P2"}}
+{"timestamp": "2026-11-25T03:08:10.384422+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-11-25T03:08:10.387370+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-11-25T03:08:10.415982+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-11-25T03:08:10.442532+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-11-25T03:08:10.445050+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-11-25T03:08:10.447279+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-11-25T03:08:10.477807+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T03:08:10.480594+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-11-25T03:08:10.482201+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-11-25T03:08:10.484374+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-11-25T03:08:10.486579+00:00", "event": "get_incident", "details": {"incident_id": 2}}
+{"timestamp": "2026-11-25T03:08:10.488233+00:00", "event": "list_incidents", "details": {"count": 2}}
