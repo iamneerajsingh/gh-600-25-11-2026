@@ -1,0 +1,22 @@
+{"timestamp": "2026-11-25T02:12:34.891963+00:00", "event": "application_started", "details": {"state_file": "C:\\Users\\neekumar\\Downloads\\cityops-25-11-2026\\gh-600-25-11-2026\\.agent\\state.json", "audit_file": "C:\\Users\\neekumar\\Downloads\\cityops-25-11-2026\\gh-600-25-11-2026\\.agent\\audit.jsonl"}}
+{"timestamp": "2026-11-25T02:12:41.129660+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T02:12:45.987607+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T02:13:00.934503+00:00", "event": "read_agent_state", "details": {"mission_id": "DEV-001"}}
+{"timestamp": "2026-11-25T02:13:00.938879+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T02:13:00.963857+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-11-25T02:13:00.965954+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P2"}}
+{"timestamp": "2026-11-25T02:13:00.970290+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-11-25T02:13:00.973571+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-11-25T02:13:01.010874+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-11-25T02:13:01.045090+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-11-25T02:13:01.048586+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-11-25T02:13:01.051729+00:00", "event": "incident_not_found", "details": {"incident_id": 999}}
+{"timestamp": "2026-11-25T02:13:01.094406+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T02:13:01.098744+00:00", "event": "get_incident_priority", "details": {"incident_id": 1, "priority": "P1"}}
+{"timestamp": "2026-11-25T02:13:01.102012+00:00", "event": "get_incident", "details": {"incident_id": 1}}
+{"timestamp": "2026-11-25T02:13:01.104265+00:00", "event": "get_incident_priority", "details": {"incident_id": 2, "priority": "P2"}}
+{"timestamp": "2026-11-25T02:13:01.106527+00:00", "event": "get_incident", "details": {"incident_id": 2}}
+{"timestamp": "2026-11-25T02:13:01.108361+00:00", "event": "list_incidents", "details": {"count": 2}}
+{"timestamp": "2026-11-25T02:13:17.362580+00:00", "event": "application_started", "details": {"state_file": "C:\\Users\\neekumar\\Downloads\\cityops-25-11-2026\\gh-600-25-11-2026\\.agent\\state.json", "audit_file": "C:\\Users\\neekumar\\Downloads\\cityops-25-11-2026\\gh-600-25-11-2026\\.agent\\audit.jsonl"}}
+{"timestamp": "2026-11-25T02:13:31.320665+00:00", "event": "health_check", "details": {"endpoint": "/"}}
+{"timestamp": "2026-11-25T02:13:39.360800+00:00", "event": "read_agent_state", "details": {"mission_id": "DEV-001"}}
